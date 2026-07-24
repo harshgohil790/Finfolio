@@ -25,16 +25,16 @@ The application allows users to manage financial records, visualize their data, 
 * Quick overview of financial information
 * Easy navigation between modules
 
-🏢 Companies
-Browse a list of companies
-View the current stock price of each company
-Search and explore available stocks
+### 🏢 Companies
+* Browse a list of companies
+* View the current stock price of each company
+* Search and explore available stocks
 
-📈 Portfolio Management
-View all stock holdings
-Track available cash balance
-Monitor overall portfolio value
-Access complete trade history
+### 📈 Portfolio Management
+* View all stock holdings
+* Track available cash balance
+* Monitor overall portfolio value
+* Access complete trade history
 
 ### 🗄 Database Features
 
