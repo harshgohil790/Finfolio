@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 
 import Layout from "./components/layout/Layout";
 import CompanyDetails from "./pages/companyDetails/CompanyDetails";
-import Dashboard from "./pages/dashboard/Dashboard";
+import Dashboard from "./pages/Dashboard/Dashboard";
 import Companies from "./pages/companies/Companies";
 import Portfolio from "./pages/portfolio/Portfolio";
 import Trading from "./pages/trading/Trading";
