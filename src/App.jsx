@@ -6,7 +6,7 @@ import Dashboard from "./pages/Dashboard/Dashboard";
 import Companies from "./pages/companies/Companies";
 import Portfolio from "./pages/portfolio/Portfolio";
 import Trading from "./pages/trading/Trading";
-import Watchlist from "./pages/watchlist/Watchlist";
+import Watchlist from "./pages/Watchlist/Watchlist";
 
 function App() {
   return (
